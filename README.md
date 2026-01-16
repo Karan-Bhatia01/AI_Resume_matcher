@@ -1,4 +1,4 @@
-# 🚀 Smart Career Advisor AI
+# 🚀 ResumeMatch Pro AI
 
 > **Enterprise-grade AI-powered career assistant leveraging advanced Machine Learning and Large Language Models for intelligent resume-job compatibility analysis**
 
