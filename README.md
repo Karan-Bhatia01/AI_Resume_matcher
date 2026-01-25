@@ -44,6 +44,10 @@ ResumeMatch Pro AI is a **production-ready, enterprise-grade machine learning sy
 - **Backend**: Python 3.11+, modular architecture, comprehensive error handling
 - **Deployment**: Streamlit Cloud with CI/CD, environment management, model versioning
 
+## Architecture
+<img width="1597" height="557" alt="Screenshot 2026-01-21 215710" src="https://github.com/user-attachments/assets/fd33239c-7b5a-4747-93af-9a0784319915" />
+
+
 ## 📈 Performance Metrics
 
 | Metric | Achievement |
