@@ -4,14 +4,13 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-red)](https://streamlit.io)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green)](https://openai.com)
 [![XGBoost](https://img.shields.io/badge/XGBoost-ML-brightgreen)](https://xgboost.readthedocs.io)
 [![HuggingFace](https://img.shields.io/badge/🤗-Datasets-yellow)](https://huggingface.co)
 [![spaCy](https://img.shields.io/badge/spaCy-NLP-orange)](https://spacy.io)
 
 ## 🎯 Project Overview
 
-Smart Career Advisor AI is a **production-ready, enterprise-grade machine learning system** trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
+ResumeMatch Pro AI is a **production-ready, enterprise-grade machine learning system** trained on **6,241+ real resume-job pairs** from HuggingFace datasets. This end-to-end ML application combines advanced NLP, ensemble learning algorithms, and Large Language Models to deliver personalized career insights with **78.14% accuracy** and **89.57% ROC AUC score**.
 
 ### 🏆 **Advanced ML Achievements**
 - **Enterprise Dataset**: Trained on `cnamuangtoun/resume-job-description-fit` (6,241 samples)
@@ -103,8 +102,8 @@ Performance:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vedang1801/Smart-Career-Advisor.git
-   cd Smart-Career-Advisor
+   git clone https://github.com/Vedang1801/AI_Resume_matcher.git
+   cd AI_Resume_matcher
    ```
 
 2. **Install dependencies**
@@ -133,7 +132,7 @@ The application will open in your default browser at `http://localhost:8501`
 ## 📁 Project Structure
 
 ```
-Smart Career Advisor AI/
+ResumeMatch Pro AI/
 ├── app/
 │   └── main.py                    # Streamlit frontend with advanced ML UI
 ├── src/
