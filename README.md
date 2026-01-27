@@ -106,7 +106,7 @@ Performance:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vedang1801/AI_Resume_matcher.git
+   git clone https://github.com/Karan-Bhatia01/AI_Resume_matcher.git
    cd AI_Resume_matcher
    ```
 
